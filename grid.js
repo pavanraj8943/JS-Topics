@@ -160,14 +160,14 @@
 
 // function add(a,b){
 
-//     let x=a+b;                  //8
+//     let x=a+b;                               //8
 //     return(x)
 // }
 // console.log(add(5,3));
 
 //function declaration
 //   greet("Alice");
-// function greet(name) {              //hello alice
+// function greet(name) {                      //hello alice
 //   console.log("Hello, " + name);
 
 // }
